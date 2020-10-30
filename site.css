@@ -16,6 +16,7 @@ header{
     "leftsidelogo. nav. rightsidelogo";
     grid-gap: 10px;
     padding: 10px;
+    background-color: rgb(37, 221, 144);
 }
 .leftsidelogo{
     grid-area:leftsidelogo;
